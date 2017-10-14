@@ -5,7 +5,7 @@
 		_Tint("Tint", Color) = (1, 1, 1, 1)
 		_MainTex("Texture", 2D) = "white"{}
 		_R("Radius", Range(1, 100)) = 1
-		_Dis("Distance", Range(1, 5)) = 1
+		_Dis("Distance", Range(1, 20)) = 1
 
 		_GlowColor("GlowColor", Color) = (1,1,1,1)
 	}
